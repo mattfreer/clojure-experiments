@@ -1,3 +1,3 @@
 (set-env!
  :resource-paths #{"src"}
- :dependencies '[[org.clojure/tools.trace "0.7.9"]])
+ :dependencies '[[org.clojure/core.match "0.3.0-alpha4"]])
